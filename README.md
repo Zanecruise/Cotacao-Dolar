@@ -6,6 +6,10 @@ Rota para obter o valor do dólar: http://localhost:5000/dolar_atual
 
 Nesse exemplo, utilizei o localhost na porta 5000.
 
+# API utilizada
+
+link: https://docs.awesomeapi.com.br/api-de-moedas
+
 # Como utilizar
 
 1. Execute o código em python.
